@@ -3,7 +3,7 @@ Easy and simple YouTube downloader, using python.
 Libraries used - (pytube, tkinter)
 
 Desclaimer:
-**This software is only for personal use only, developer does not hold any responsibility of copyright infringment, download videos on your own risk.**
+**This software is for personal use only, developer does not hold any responsibility of copyright infringment, download videos on your own risk.**
 
 Features:
 Download youtube videos using URL.
